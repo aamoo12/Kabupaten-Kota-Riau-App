@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.sandy.kabupatenkotariauapp"
+    namespace = "com.irhamni.kabupatenkotariauapp"
     compileSdk = 35 // Pastikan versi ini sesuai dengan yang ada
 
     defaultConfig {
-        applicationId = "com.sandy.kabupatenkotariauapp"
+        applicationId = "com.irhamni.kabupatenkotariauapp"
         minSdk = 26
         targetSdk = 34
         versionCode = 1
